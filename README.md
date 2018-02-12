@@ -7,6 +7,7 @@ How to install first time the front end:
 3. ng -v
 4. CMD --> cd Project/getapp
 5.npm install
+
 6.ng-serve (start the project on port 4200)
 
 How to use Angular CLI 
